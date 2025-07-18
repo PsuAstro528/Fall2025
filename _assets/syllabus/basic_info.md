@@ -17,9 +17,9 @@ lastmodifieremail = "ebf11 at psu dot edu"
 - Instructor: Eric Ford
    - Email: ebf11 at psu dot edu
    - Phone: x3-5558
-<!---   
-- Graduate Teaching Assistant: TBD
-- Email: 445A at psu dot edu 
---->
+<!--   
+ Graduate Teaching Assistant: TBD
+ Email: 445A at psu dot edu 
+-->
 - Office Hours: Monday 10-11AM, or by appointment in Davey 408A or Zoom
 - Website: [https://psuastro528.github.io/Fall2025/](https://psuastro528.github.io/Fall2025/)

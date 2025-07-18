@@ -13,11 +13,8 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 ## Textbooks
 The required textbooks for this course are:
-- TBD
-<!--
-- _Writing Scientific Software: A Guide to Good Style_ by Suely Oliveira, Cambridge University Press, 1st edition, September 18, 2006,  ISBN-10: 0521858968.  (I recommend considering a used version.)
-- _[Think Julia: How to Think like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)_ by Ben Lauwens and Allen Downey, 1st edition, May 14, 2019.  ISBN-10:1492045039 (I recommend using the version avaliable online for free.)
---->
+ _Writing Scientific Software: A Guide to Good Style_ by Suely Oliveira, Cambridge University Press, 1st edition, September 18, 2006,  ISBN-10: 0521858968.  (I recommend considering a used version.)
+ _[Think Julia: How to Think like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)_ by Ben Lauwens and Allen Downey, 1st edition, May 14, 2019.  ISBN-10:1492045039 (I recommend using the version avaliable online for free.)
 
 I will also suggest some readings from an optional textbook: 
 - _Introduction to High Performance Computing for Scientists and Engineers_ by Georg Hager &amp; Gerhard Wellein, CRC Press, 1st edition, July 2, 2010,  ISBN-10: 143981192X
