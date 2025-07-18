@@ -1,0 +1,4 @@
+- No new readings, but be helpful to review:
+- [Best Practices for Code Review](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
+- [Code Reiew Best Practices](https://medium.com/palantir/code-review-best-practices-19e02780015f) from Palantir Blog
+- [13 Code Review Standards Inspired by Google](https://betterprogramming.pub/13-code-review-standards-inspired-by-google-6b8f99f7fd67)

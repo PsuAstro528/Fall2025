@@ -1,0 +1,2 @@
+- Explain reasons for observed performance of class project
+- Share lessons learned in course of each class project

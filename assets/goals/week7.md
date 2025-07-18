@@ -1,0 +1,5 @@
+- Project
+   - Provide constructive feedback in code review
+   - Use [GitHub Issues](https://guides.github.com/features/issues/) to manage tasks for code base
+- Readings / Discussions
+   - Evaluating the suitability of a problem for different parallel architectures

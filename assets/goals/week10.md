@@ -1,0 +1,6 @@
+- Project
+   - Gain experience parallelizing a real world code
+   - Identify changes need to acheive significant performance benefit via parallelization
+- Readings / Discussions
+   - Describe how GPU differs from CPU
+   - Assess the prospects for a given algorithm to achieve a significant speed-up using a GPU

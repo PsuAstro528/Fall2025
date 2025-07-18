@@ -1,0 +1,9 @@
+- Readings / Discussions
+   - Readings / Discussions
+      - Describe benefits and disadvantages of cloud computing
+      - Determine whether a project would be well suited for running in the cloud
+   - Project
+      - Gain experience with second mechanism for parallelizing real world code
+      - Perform benchmarks for the second parallel version of your project code.  
+      - Analyze and explain the weak and strong scalings of your project code.  
+      - Work towards achieving a significant performance benefit via second parallelization
