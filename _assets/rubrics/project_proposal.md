@@ -1,0 +1,6 @@
+- Statement of the project goal (0 points, but required so the rest makes sense)
+- Description of the inputs.  Be sure to specify what parameters (e.g., dataset size, resolution of grid, number of samples, etc.) will be used to explore how performance scales (1 point)
+- Description of the outputs (1 point)
+- Detailed plan for how the code will be tested (1 point)
+- Discussion of the relevant range of problem sizes (1 point)
+- Complete list of what computer architectures, programming languages, and libraries you will use, as well as an justification of your choices (1 point)

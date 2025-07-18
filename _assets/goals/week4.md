@@ -1,0 +1,9 @@
+- Describe steps a CPU performs surrounding actual arithmetic
+- Anticipate when performance will be affected by cache size
+- Exercises
+   - Fit a model to data
+   - Read & write models using a probabilistic programming language
+   - Estimate uncertainties in model parameters using Markov chain Monte Carlo
+- Project
+   - Plan data structures to optimize for memory access
+   - Consider whether autodifferentiation and/or probablistic program model is appropriate for your project
