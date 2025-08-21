@@ -37,7 +37,7 @@ tags = ["weekly",]
 
 ## Additional Resources
 - [Course overview](course_overview)
-- [Slides](https://psuastro528.github.io/Notes-Fall2023/week1_discuss.html)
+- [Slides](https://psuastro528.github.io/Notes-Fall2025/week1_discuss.html)
 
 \textinput{getting_started_links}
 

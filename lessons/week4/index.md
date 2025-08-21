@@ -26,4 +26,4 @@ tags = ["weekly",]
 \textinput{labs/lab4}
 
 ## Additional Resources
-- [Monday Q&A](https://psuastro528.github.io/Notes-Fall2023/week4/week4_qa.html): Compilation, Code inspection, Vectorization, Memory Hierarchy
+- [Monday Q&A](https://psuastro528.github.io/Notes-Fall2025/week4/week4_qa.html): Compilation, Code inspection, Vectorization, Memory Hierarchy

@@ -1,4 +1,4 @@
-[Lab 1: **Tools & Fundamentals: Floating Point Arithmetic, Functions, Tests**](https://github.com/PsuAstro528/lab1-start)
+[Lab 1: **Tools & Fundamentals: Floating Point Arithmetic, Functions, Tests**](https://github.com/PsuAstro528/lab1)
 (Due {{lab1_due}})
 
 - [Exercise 1](https://psuastro528.github.io/lab1-start/ex1.html): Get started using core development tools

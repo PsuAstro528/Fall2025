@@ -28,5 +28,5 @@ lastmodifieremail = "ebf11 at psu dot edu"
 \textinput{labs/lab7}
 
 ## Additional Resources
-- [Week 13, Monday Discussion and Q&A](https://psuastro528.github.io/Notes-Fall2023/week13/week13.html):  Cloud Computing
+- [Week 13, Monday Discussion and Q&A](https://psuastro528.github.io/Notes-Fall2025/week13/week13.html):  Cloud Computing
 

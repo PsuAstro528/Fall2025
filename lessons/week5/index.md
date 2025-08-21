@@ -24,4 +24,4 @@ tags = ["weekly",]
 \textinput{labs/lab5}
 
 ## Additional Resources
-- [Discussion and Q&A](https://psuastro528.github.io/Notes-Fall2023/week5.html): What to Optimize, Programming Interfaces, Abstract Types
+- [Discussion and Q&A](https://psuastro528.github.io/Notes-Fall2025/week5.html): What to Optimize, Programming Interfaces, Abstract Types

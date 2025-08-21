@@ -24,4 +24,4 @@ tags = ["weekly",]
 \textinput{labs/lab6}
 
 ## Additional Resources
-- [Week 8, Monday](https://psuastro528.github.io/Notes-Fall2023/week8/week8.html):  Parallelization: Q&A and Scaling Laws
+- [Week 8, Monday](https://psuastro528.github.io/Notes-Fall2025/week8/week8.html):  Parallelization: Q&A and Scaling Laws

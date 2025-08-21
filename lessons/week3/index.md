@@ -30,8 +30,8 @@ tags = ["weekly",]
 \textinput{labs/lab3}
 
 ## Additional Resources
-- [Monday Discussion](https://psuastro528.github.io/Notes-Fall2023/week3/week3_discuss.html):  Priorities for Scientific Computing: Correctness, Documentation
-- [Wednesday Q&A](https://psuastro528.github.io/Notes-Fall2023/week3/week3_qa.html): Two-language Problem, Expert vs Non-Expert Interfaces
+- [Monday Discussion](https://psuastro528.github.io/Notes-Fall2025/week3/week3_discuss.html):  Priorities for Scientific Computing: Correctness, Documentation
+- [Wednesday Q&A](https://psuastro528.github.io/Notes-Fall2025/week3/week3_qa.html): Two-language Problem, Expert vs Non-Expert Interfaces
 
 - File Formats
    - [FITSIO library written in C](https://heasarc.gsfc.nasa.gov/fitsio/)
