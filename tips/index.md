@@ -4,8 +4,8 @@ tags = ["tips"]
 +++
 
 # How-To's & Tips
-- [Using Roar](roar/)
-- [Starting Pluto on Roar](labs/starting/)
+- [Using Lynx](roar/)
+- [Starting Pluto on Lynx](labs/starting/)
 - [Creating & Submitting Labs](labs/)
 - [Running Pluto locally](pluto/local/)
 

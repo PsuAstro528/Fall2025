@@ -3,14 +3,14 @@ title = "Starting Labs on Roar"
 tags = ["tips","labs","git","pluto"]
 +++
 
-# Starting Labs on Roar
+# Starting Labs on Lynx
 
 \toc
 
 
-## Start a new Roar Session
-- Request a "**BYOE Jupyter server**" session via the [Roar portal](https://rcportal.hpc.psu.edu/) (see [starting Pluto Server](../../roar/pluto/))
-- You can proceed to the next step, while you're waiting for it to star.
+## Start a new Lynx Session
+- Request a Jupyter session via the [Lynx portal](https://portal.lynx.hpc.psu.edu/) (see [starting Pluto Server](../../roar/pluto/))
+- You can proceed to the next step, while you're waiting for it to start.
 
 ## Clone your github repository to begin a new assignment
 - Lookup the url for the repo to be cloned (from Canvas assignment page for that lab or in an announcement).
@@ -20,11 +20,11 @@ tags = ["tips","labs","git","pluto"]
     + In the local tab, under "Clone", clikc "SSH" (unless it is already selected).
     + Click the clipboard icon to copy the url onto your clipboard
 - Return to your browser tab with "My Interactive Sessions".
-- Hopefully, there's now a _Connect to Jupyter Server_ button. Click it.
-- Go to the newly opened tab, you'll have a Jupyter Lab Server.
+- Hopefully, there's now a _Click to Connect to Jupyter_ button. Click it.
+- Go to the newly opened tab, you'll have a Jupyter Lab Server or a Pluto Server.
 - If you don't see tiles for Python, Julia and Pluto Notebooks, then click _File.NewLauncher_.
 - Find the _Terminal_ tile or in the menu system, _File.New.Terminal_.
-- In the new terminal tab, change into your work directory (`cd ~/work`) and clone your github repo by running
+- In the new terminal tab, ensure that you are in your home directory (`cd ~`) and clone your github repo by running
 
 ```shell
 git clone REPO_URL  
