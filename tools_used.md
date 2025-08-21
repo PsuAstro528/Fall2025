@@ -60,7 +60,7 @@ Feel free to create issues with suggestions and/or to submit pull requests with 
 ---
 ## Running Julia without local installation hassles
 
-- [Penn State ICS-ACI](http://portal.aci.ics.psu.edu/): Primary compute server
+- [Penn State ICDS Lynx Cluster](http://portal.lynx.hpc.psu.edu/): Primary compute server
 - [JuliaBox](https://juliabox.com/): Wise to have a backup way to get work done if students have trouble with ACI
 - [Binder](https://mybinder.org): For easily sharing notebook results with others [^1]
 - [Customized Docker container](https://hub.docker.com/r/psuastro528/notebook):  Provides reproducible computing environment for students, testing, sharing, etc.

@@ -4,8 +4,8 @@ tags = ["tips","labs"]
 +++
 
 # Working with Labs
-- [Getting setup to use Roar](../roar/)
-- [Starting Pluto on Roar](../roar/pluto/)
+- [Getting setup to use Lynx](../roar/)
+- [Starting Pluto on Lynx](../roar/pluto/)
 - [Starting a lab](starting/)
 - [Committing changes](commit/)
 - [Testing a lab](testing/)

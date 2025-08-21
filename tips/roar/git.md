@@ -1,11 +1,11 @@
 +++
 title = "Setting up Git on Roar Collabs"
-tags = ["tips","labs","icds","aci","roar","git"]
+tags = ["tips","labs","icds","aci","roar","lynx","git"]
 +++
 
 ### Setup Git
 
-For students using Roar Collab for the first time, open a terminal tab in your sessions, and run commands like the following from the terminal
+For students using Lynx for the first time, open a terminal tab in your sessions, and run commands like the following from the terminal
 ```shell
 git config --global user.email "nobody@nowhere.org"
 git config --global user.name "Your Github Id"
@@ -18,4 +18,4 @@ Either is fine.
 
 \\
 
-Now you're ready to [add your Roar Collab ssh keys to GitHub](../sshkeys).
+Now you're ready to [add your Lynx ssh keys to GitHub](../sshkeys).

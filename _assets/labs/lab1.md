@@ -2,8 +2,7 @@
 (Due {{lab1_due}})
 
 - [Exercise 1](https://psuastro528.github.io/lab1-start/ex1.html): Get started using core development tools
-<!--
-    + [ICDS Roar Collab portal](http://portal.hpc.psu.edu/)
+    + [ICDS Lynx portal](http://portal.lynx.hpc.psu.edu/)
     + [git](https://try.github.io/)
     + [GitHub.com](https://github.com)
     + [Julia](https://julialang.org/)
