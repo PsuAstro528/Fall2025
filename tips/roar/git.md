@@ -5,7 +5,7 @@ tags = ["tips","labs","icds","aci","roar","git"]
 
 ### Setup Git
 
-For students using Roar for the first time, open a terminal tab in your sessions, and run commands like the following from the terminal
+For students using Roar Collab for the first time, open a terminal tab in your sessions, and run commands like the following from the terminal
 ```shell
 git config --global user.email "nobody@nowhere.org"
 git config --global user.name "Your Github Id"

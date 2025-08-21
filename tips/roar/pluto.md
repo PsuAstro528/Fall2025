@@ -5,20 +5,19 @@ tags = ["tips","labs","icds","aci","roar","pluto"]
 
 # Start Roar Session with Jupyter & Pluto Server
 
-If this is your first time to run Pluto on Roar, then first make sure you have an account on ACI and have completed the [initial setup](../tips/roar/) steps.
+If this is your first time to run Pluto on Roar Collab, then first make sure you have an account on Roar Collab and have completed the [initial setup](../tips/roar/) steps.
 Then, each time you want to start a Jupyter notebook session on Roar, you'll follow the instructions below:
-1. Browse to [rcportal.hpc.psu.edu](https://rcportal.hpc.psu.edu).
+1. Browse to [portal.hpc.psu.edu](https://portal.hpc.psu.edu).
 Using "guest" or "incognito" mode is recommended.
 Login and authenticat (as necessary).
 
-1. Under _Interactive Servers_, choose _BYOE Jupyter Server__
+1. Under _Interactive Apps_, choose _Jupyter__ (in the Server Applications section near the bottom of the list)
 1. Select:
    - Jupyter Interface: JupyterLab
    - Conda environment type: "Use custom text field"
-   - Environment Setup: `source /storage/group/RISE/classroom/astro_528/scripts/env_setup`
-   - Node type: Standard Cores
-   - Account: "ebf11-fa23" (for most labs), "ebf11-fa23_p_gpu" (for labs/project using a GPU) 
-   - partition: "SLA Prio"
+   - Environment Setup: `source /storage/group/RISE/classroom/astro_528/scripts/env_setup` TODO: UPDATE
+   - Account: "hpc4astro_cr_default"
+   - Partition: "basic" (can also choose "standard" or "open" once you learn the differences)
    - Number of hours: 3  (can choose longer if you plan to continue after class or outside of class)
    - Number of cores: 4
    - Memory per core: 4 GB
