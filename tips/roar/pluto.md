@@ -1,6 +1,6 @@
 +++
 title = "Starting Jupyter & Pluto Notebook Servers on Lynx"
-tags = ["tips","labs","icds","aci","roar","pluto"]
+tags = ["tips","labs","icds","aci","roar","lynx","pluto"]
 +++
 
 # Start Lynx Session with Jupyter & Pluto Server
@@ -16,7 +16,7 @@ Login and authenticate (as necessary).
    - Jupyter Interface: Jupyter Lab
    - Environment setup: `source /storage/egroup/hpc4astro/default/astro_528/scripts/env_setup`
    - Number of hours: 2  (can choose longer if you plan to continue after class or outside of class)
-   - Number of cores: 1  (or more if running parallel computation)
+   - Number of cores: 2  (or more if running parallel computation)
    - Memory per core: 8 GB
    - If necessary, feel free to select the _Enable advanced Slurm options_ box to directly enter additional Slurm resource directives. Note that these may override any previous selections, and the session will not successfully start if there are any mistakes in the provided directives.
 1. Click _Launch_, and your session request will appear in the _My Interactive Sessions_ list. Wait while your job starts.

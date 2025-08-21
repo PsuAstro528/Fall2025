@@ -1,6 +1,6 @@
 +++
 title = "Setting up Git on Roar Collabs"
-tags = ["tips","labs","icds","aci","roar","git"]
+tags = ["tips","labs","icds","aci","roar","lynx","git"]
 +++
 
 ### Setup Git

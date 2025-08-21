@@ -1,5 +1,5 @@
 +++
-title = "Starting Labs on Roar"
+title = "Starting Labs on Lynx"
 tags = ["tips","labs","git","pluto"]
 +++
 
@@ -14,7 +14,8 @@ tags = ["tips","labs","git","pluto"]
 
 ## Clone your github repository to begin a new assignment
 - Lookup the url for the repo to be cloned (from Canvas assignment page for that lab or in an announcement).
-    + If you haven't followed the link to create your repo for this week's assignment yet, then do that now.  Following that link should trigger GitHub to create a private git repository named labN-GITHUBID (where N is the week number and GITHUBID is the GitHub username that you're logged in as at the time you follow the link).
+    + If you haven't followed the link to create your repo for this week's assignment yet, then do that now.  Following that link should trigger GitHub to create a private git repository. 
+<!-- named labN-GITHUBID (where N is the week number and GITHUBID is the GitHub username that you're logged in as at the time you follow the link). -->
     + Navigate to the github repository you'll be using in your browser.
     + Click the green _<> Code_ button.
     + In the local tab, under "Clone", clikc "SSH" (unless it is already selected).
@@ -45,7 +46,7 @@ julia --project -e 'using Pkg; Pkg.instantiate(); '
 - If you do not see the a tile for Pluto, then go to _File.NewLauncher_.
 - Most labs will contain one or more Pluto notebooks (typically their file names be like ex1.jl, ex2.jl).  To open one in Pluto,
    + Click the Pluto tile.  A new tab will open in your browser for the Pluto session.
-   + In the box labeled "Enter path or URL..." under "Open a notebook", type the path to the directory containing the repo, a forward slash and the name of the first notebook (e.g., 'lab1-yourgithubid/ex1.jl').  Tab completion is often helpful.
+   + In the box labeled "Enter path or URL..." under "Open a notebook", type the path to the directory containing the repo, a forward slash and the name of the first notebook (e.g., 'your_repo:/ex1.jl').  Tab completion is often helpful.
 - Do your work in the notebook.
 - When you're done with a notebook, make sure it is saved (Ctrl+S) and close the tab.
 

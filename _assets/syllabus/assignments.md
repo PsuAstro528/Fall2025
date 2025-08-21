@@ -11,7 +11,7 @@ lastmodifierdisplayname = "Eric Ford"
 lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
-The assessed work for this course consists of computer [lab/homework assignments](/syllabus/#labhomework_exercises) (40%),  a [class project](/syllabus/#class_project) (50%) and [class discussion](/syllabus/#class_participation) (10%; including either contributing to class discussion and/or submitting [reading questions](/syllabus/#readings_reading_questions)).  There are no exams.  The class project will have several components and will be described in more detail below.
+The assessed work for this course consists of computer [lab/homework assignments](/syllabus/#labhomework_exercises) (40%),  a [class project](/syllabus/#class_project) (50%) and [class discussion](/syllabus/#class_participation) (10%; including contributing to class discussion, participating in lab sessions, and/or submitting reading questions).  There are no exams.  The class project will have several components and will be described in more detail below.
 
 The planned assignment due dates are in the [schedule section](/schedule/) of the website.  Any revision to the due dates will be announced at the time they are assigned.  
 Assignments that are due on the same day as a class or lab session are due **before** the start of class.
@@ -43,19 +43,22 @@ The written project proposal should include:
 - a description of the inputs (e.g., initial conditions or input datasets, astrophysical model parameters, implementation parameters),
 - a description of the outputs,
 - a detailed plan for how the code will be tested (from unit tests to verification),
-- a discussion of the relevant range of problem sizes,
-- what computer architectures, programming languages, and libraries you will use, as well as an justification of your choices.
+- a discussion of parameters to be varried to explore performance versus problem size and the relevant range of problem sizes,
+- what computer architectures, programming languages, and libraries/packages you will use, as well as an justification of your choices.
 
 More information about the expectations for class projects and grading rubrics are provided in the [class project](/project//) section of the website.
 
-## Readings & Reading Questions
-Students will be expected to read assignments (or review a website, watch an online presentation, or listen to audio) before class on the days indicated, so they will be prepared to participate in class discussions and/or make progress writing code for the assignment.
+## Readings 
+Students will be expected to read assignments to complement lessons in class.  In some cases, the website will say "Prior to class on Wednes/Friday"  indicating that it is important to complete those readings prior to that class.  When not specifie, students may choose whether to do readings prior or after class.  
+
+##  Reading Questions
+If you won't be able to make class for some reason, then please submit at least one question relevant to that week's readings to the instructor via the Canvas email page.  If you know you'll miss class in advance, then please inform the instructor and submit your questions in advance of that class.  If you're sick, then you may submit your question within one week of once you're back to work.
 <!--
 All students should submit an average of at least one question per week about the week's readings via [TopHat](https://app.tophat.com/e/708625) by one hour before discussion-based classes (typically Wednesdays; as opposed to Fridays which will typically be lab-based classes).  There is a link to the course TopHat site inside the Canvas webpage.  Submitting well before class starts is important, so the instructor will have time to read the questions and organize the day’s discussion based on actual student questions.  You're also encouraged to take a look at questions submitted by other students and give a "thumbs up" to indicate those questions that you'd also like to be addressed in class.  In the event of technically difficulties, you can email your question to the instructor with "Astro 528 Reading Question" in the subject line.  
 -->
 
 ## Class Participation
-In-class discussions and coding sessions will be an important part of the course, so students should aim to participate regularly.  Students who are reluctant to ask questions in class are especially encouraged to ask extra questions prior to class (via Canvas or email with ASTRO 528 in subject line).  If you know you need to miss class due to research travel or health issues, then let the instructor know in advance whenever practical.  It may be possible to watch recordings of missed classes.  If that is not practical for some reason, make plans to get a classmate's notes for any missed class sessions.  
+In-class discussions and coding sessions will be an important part of the course, so students should aim to participate regularly.  Students who are reluctant to ask questions in class are especially encouraged to ask extra questions prior to class (via Canvas).  If you know you need to miss class due to research travel or health issues, then let the instructor know in advance whenever practical.  It may be possible to watch recordings of some missed classes.  If that is not practical for some reason, make plans to get a classmate's notes for any missed class sessions.  
 
 ## Exam Policy
 There will be no exams.  

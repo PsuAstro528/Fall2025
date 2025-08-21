@@ -16,10 +16,9 @@ lastmodifieremail = "ebf11 at psu dot edu"
    - 12:40-2:20pm Fridays in Davey 538
 - Instructor: Eric Ford
    - Email: ebf11 at psu dot edu
-   - Phone: x3-5558
-<!--   
- Graduate Teaching Assistant: TBD
- Email: 445A at psu dot edu 
--->
-- Office Hours: Monday 10-11AM, or by appointment in Davey 408A or Zoom
+- Graduate Teaching Assistant: Kyle Neumann
+  - Email: kdn5172 _at_ psu.edu
+- Office Hours: TBD, or by appointment in Davey 408A or Zoom
 - Website: [https://psuastro528.github.io/Fall2025/](https://psuastro528.github.io/Fall2025/)
+
+

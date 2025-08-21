@@ -30,15 +30,15 @@ tags = ["weekly",]
   - [symplectic](https://en.wikipedia.org/wiki/Symplectic_integrator)
 <!-- + [view(array, inds...)](https://docs.julialang.org/en/v1/base/arrays/#Views-(SubArrays-and-other-view-types)-1) -->
 
-## Readings
-\textinput{reading/week2}
-
 ## Lab
 \textinput{labs/lab2}
 
+## Readings
+\textinput{reading/week2}
+
 ## Additional Resources
-- [Monday Q&A](https://psuastro528.github.io/Notes-Fall2023/week2/week2_qa.html): Git
-- [Monday Discussion](https://psuastro528.github.io/Notes-Fall2023/week2/week2_discuss.html):  Priorities for Scientific Computing, Writing General Code
+- [Monday Q&A](https://psuastro528.github.io/Notes-Fall2025/week2/week2_qa.html): Git
+- [Monday Discussion](https://psuastro528.github.io/Notes-Fall2025/week2/week2_discuss.html):  Priorities for Scientific Computing, Writing General Code
 
 \textinput{getting_started_links}
 

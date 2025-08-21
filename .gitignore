@@ -14,6 +14,7 @@ tutorials/*/*.html
 #notebooks/*.md
 notebooks/*/*.html
 notebooks/data/*
+.vscode
 
 **/_tmp_*.jl
 **/*backup*.jl

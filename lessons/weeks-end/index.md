@@ -15,4 +15,4 @@ tags = ["weekly","project",]
 +++
 
 ## Project
-- [Presentations of Class Projects & Lessons Learned](/project/#project_presentation_due_project_presentation_due)** 
+- [Presentations of Class Projects & Lessons Learned](/project/#project_presentation_due_project_presentation_due) 

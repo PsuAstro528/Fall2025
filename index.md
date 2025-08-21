@@ -17,7 +17,7 @@ _High-Performance Scientific Computing for Astrophysics_ will combine class disc
 ---
 
 #### Reusing & citing this work
-If you use any of these materials in academic work (e.g., courses, papers), please cite `Ford, Eric B. 2021` [doi:10.26207/zt99-ba86](https://scholarsphere.psu.edu/resources/756cbd41-3db2-4f72-a319-a507814e4c89).  If you use any of these materials in websites, please consider linking to [PSU Astro 528: High-Performance Computing for Astrophysics course materials ({{semester}})](https://psuastro528.github.io/Fall2023).
+If you use any of these materials in academic work (e.g., courses, papers), please cite `Ford, Eric B. 2021` [doi:10.26207/zt99-ba86](https://scholarsphere.psu.edu/resources/756cbd41-3db2-4f72-a319-a507814e4c89).  If you use any of these materials in websites, please consider linking to [PSU Astro 528: High-Performance Computing for Astrophysics course materials ({{semester}})](https://psuastro528.github.io/Fall2025).
 
 The course materials are licensed as follows:
 - The code is under the [MIT license](https://opensource.org/licenses/MIT).

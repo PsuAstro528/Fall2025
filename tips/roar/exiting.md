@@ -1,6 +1,6 @@
 +++
 title = "Ending your Lynx Session"
-tags = ["tips","labs","icds","aci","roar"]
+tags = ["tips","labs","icds","aci","roar","lynx"]
 +++
 
 ### Ending your Lynx Session

@@ -66,6 +66,6 @@ Completed project code with documetation, benchmarking results and summary of le
 \textinput{rubrics/project_final}
 
 ### Project Presentation (due {{project_presentation_due}})
-[Schedule of Student Presentations](https://github.com/PsuAstro528/PresentationsSchedule2023/blob/master/README.md)
+[Schedule of Student Presentations](https://github.com/PsuAstro528/PresentationsSchedule2025/blob/master/README.md)
 #### Rubric
 \textinput{rubrics/project_presentation}

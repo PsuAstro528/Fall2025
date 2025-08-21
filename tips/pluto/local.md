@@ -6,7 +6,7 @@ tags = ["tips","pluto"]
 
 Some students may wish to install Julia and Pluto on their local computer.
 While this is not supported, it's likely that the following steps will work for most students: 
-1.  Download and install current version of Julia from [julialang.org](https://julialang.org/downloads/).
+1.  Download and install juliaup from [julialang.org](https://julialang.org/install/). 
 2.  Run julia
 3.  From the Julia REPL (command line), type
 ```julia

@@ -21,7 +21,7 @@ tags = ["tools",]
 The following notes are primarily to serve as checklists, so the instructor can efficiently and reliably get stuff done for the course.
 
 I'd be happy to learn if they are useful to others.
-Feel free to create issues with suggestions and/or to submit pull requests with improvements via the [github repo for the course website source](https://github.com/PsuAstro528/Fall2023-website-src).
+Feel free to create issues with suggestions and/or to submit pull requests with improvements via the [github repo for the course website source](https://github.com/PsuAstro528/Fall2025).
 
 
 ## [GitHub](https://github.com/PsuAstro528)
@@ -79,4 +79,4 @@ Feel free to create issues with suggestions and/or to submit pull requests with 
 ## [Acknowledgments](tools_used/ackl)
 
 ### Improve this page
-You can add your suggestions by submitting a pull request for editing [this file's source](https://github.com/PsuAstro528/Spring2019-website-src/blob/master/content/tools_used/tools_used.md).  Thanks!
+You can add your suggestions by submitting a pull request for editing [this file's source](https://github.com/PsuAstro528/Fall2025/blob/master/content/tools_used/tools_used.md).  Thanks!

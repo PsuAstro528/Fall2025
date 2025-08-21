@@ -23,7 +23,6 @@ you can accept the default path.  Do not specify a password.
 - In the Title box enter "ICDS Lynx" (or your preferred identifier).  
 - In the "Key" box paste the contents of the file ~/.ssh/id_rsa.pub from the Lynx cluster.  You can get your ssh public key by running 'cat  ~/.ssh/id_rsa.pub' from the command line while logged into Roar Collab (or download it from the ACI portal by going to Files.Home Directory, clicking "Show Dotfiles" (at the top of the page), double clicking .ssh, clicking id_rsa.pub and then download.  Then copy from your favorite text editor.)  
 
-
 \\
 
 Now you're ready to [open a Pluto notebook for the first lab](../pluto).

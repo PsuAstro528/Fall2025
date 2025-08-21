@@ -24,4 +24,4 @@ tags = ["weekly",]
 - Time to work on project
 
 ## Additional Resources
-- [Discussion](https://psuastro528.github.io/Notes-Fall2023/week6/week6.html):  Memory Allocation & Code Review
+- [Discussion](https://psuastro528.github.io/Notes-Fall2025/week6/week6.html):  Memory Allocation & Code Review

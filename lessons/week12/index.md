@@ -17,11 +17,11 @@ tags = ["weekly",]
 ## Goals
 \textinput{goals/week12}
 
-## Readings
-\textinput{reading/week12}
-
 ## Lab
 \textinput{labs/lab9}
 
+## Readings
+\textinput{reading/week12}
+
 ## Additional Resources
-- [Week 12, Monday Discussion and Q&A](https://psuastro528.github.io/Notes-Fall2023/week12/week12.html):  Reproducibility:  Packages, Environments & more
+- [Week 12, Monday Discussion and Q&A](https://psuastro528.github.io/Notes-Fall2025/week12/week12.html):  Reproducibility:  Packages, Environments & more
