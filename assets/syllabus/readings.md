@@ -18,7 +18,7 @@ The required textbooks for this course are:
 
 I will also suggest some readings from an optional textbook: 
 - _Introduction to High Performance Computing for Scientists and Engineers_ by Georg Hager &amp; Gerhard Wellein, CRC Press, 1st edition, July 2, 2010,  ISBN-10: 143981192X
-Whenever readings from _Introduction to High Performance Computing for Scientists and Engineers_ are suggested, there will be alternative online reading assignments for students who prefer not to purchase another textbook.  Hopefully, different students reading from different sources will help stimulate interesting discussion about commonalities and differences across sources.
+Whenever readings from _Introduction to High Performance Computing for Scientists and Engineers_ are suggested, there will be alternative online reading assignments for students who prefer not to purchase another textbook (which is more recent, but probably a little more detailed than ideal for most students).  
 - [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence.](https://statisticswithjulia.org/) by  Yoni Nazarathy and Hayden Klok, Springer Series in the Data Sciences, [PDF of draft version](https://statisticswithjulia.org/StatisticsWithJuliaDRAFT.pdf).  (I recommend using the version avaliable online for free.)
 
 ## Additional Readings & Resources
