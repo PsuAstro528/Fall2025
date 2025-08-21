@@ -22,11 +22,11 @@ tags = ["weekly",]
 ## Project
 - **[Shared-memory parallel implementation of class project](/project/#first_parallel_version_of_code_due_project_parallel1_due)**
 
-## Readings
-\textinput{reading/week11}
-
 ## Lab
 \textinput{labs/lab8}
+
+## Readings
+\textinput{reading/week11}
 
 ## Additional Resources
 - [Slides](https://psuastro528.github.io/Notes-Fall2025/week11/week11.html):  Priorities, Build Systems, Parallel Random Number Generators, Q&A, Autodiff on GPUs

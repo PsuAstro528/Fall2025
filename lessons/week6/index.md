@@ -17,11 +17,11 @@ tags = ["weekly",]
 ## Goals
 \textinput{goals/week6}
 
-## Lab
-- Time to work on project
-
 ## Readings
 \textinput{reading/week6}
+
+## Lab
+- Time to work on project
 
 ## Additional Resources
 - [Discussion](https://psuastro528.github.io/Notes-Fall2025/week6/week6.html):  Memory Allocation & Code Review
