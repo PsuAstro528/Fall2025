@@ -17,11 +17,11 @@ tags = ["weekly",]
 ## Goals
 \textinput{goals/week10}
 
-## Readings
-\textinput{reading/week10}
-
 ## Lab
 \textinput{labs/lab8}
+
+## Readings
+\textinput{reading/week10}
 
 ## Additional Resources
 - [Week 10, Monday Discussion](https://psuastro528.github.io/Notes-Fall2025/week10/week10.html):  GPU Computing

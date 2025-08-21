@@ -23,11 +23,11 @@ tags = ["weekly",]
 - File formats: CSV, FITS, HDF5, JLD2
 - Calling Python from Julia
 
-## Readings
-\textinput{reading/week3}
-
 ## Lab
 \textinput{labs/lab3}
+
+## Readings
+\textinput{reading/week3}
 
 ## Additional Resources
 - [Monday Discussion](https://psuastro528.github.io/Notes-Fall2025/week3/week3_discuss.html):  Priorities for Scientific Computing: Correctness, Documentation

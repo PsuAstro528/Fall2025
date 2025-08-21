@@ -14,14 +14,19 @@ lastmodifieremail = "ebf11 at psu dot edu"
 tags = ["weekly",]
 +++
 
+\warn{Peer code review due {{project_codereview_due}}}
+
 ## Goals
 \textinput{goals/week6}
 
-## Readings
-\textinput{reading/week6}
+## Project
+- **[Peer Code Review due](/project/#peer_code_reviews_due_project_codereview_due)**
 
 ## Lab
 \textinput{labs/lab6}
+
+## Readings
+\textinput{reading/week6}
 
 ## Additional Resources
 - [Week 8, Monday](https://psuastro528.github.io/Notes-Fall2025/week8/week8.html):  Parallelization: Q&A and Scaling Laws

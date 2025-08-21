@@ -14,17 +14,16 @@ lastmodifieremail = "ebf11 at psu dot edu"
 tags = ["weekly",]
 +++
 
-\warn{First parallel implementation of project due 
+\warn{First parallel implementation of project due {{project_parallel1_due}} }
 
 ## Goals
 \textinput{goals/week10}
 
-## Readings
-\textinput{reading/week10}
-
 ## Project
-{{project_parallel1_due}} }
 - **[Shared-memory parallel implementation of class project](/project/#first_parallel_version_of_code_due_project_parallel1_due)**
+
+## Readings
+\textinput{reading/week11}
 
 ## Lab
 \textinput{labs/lab8}

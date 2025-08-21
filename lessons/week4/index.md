@@ -17,13 +17,13 @@ tags = ["weekly",]
 ## Goals
 \textinput{goals/week4}
 
-## Readings
-\textinput{reading/week4}
-
 ## **[Project Proposal](/project/#project_proposal_due_project_proposal_due)**
 
 ## Lab
 \textinput{labs/lab4}
+
+## Readings
+\textinput{reading/week4}
 
 ## Additional Resources
 - [Monday Q&A](https://psuastro528.github.io/Notes-Fall2025/week4/week4_qa.html): Compilation, Code inspection, Vectorization, Memory Hierarchy

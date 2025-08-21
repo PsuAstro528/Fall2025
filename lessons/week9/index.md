@@ -17,11 +17,11 @@ tags = ["weekly",]
 ## Goals
 \textinput{goals/week6}
 
-## Readings
-\textinput{reading/week6}
-
 ## Lab
 \textinput{labs/lab7}
+
+## Readings
+\textinput{reading/week9}
 
 ## Additional Resources
 - [Week 9, Monday Discussion](https://psuastro528.github.io/Notes-Fall2025/week9/week9_discuss.html):  Using the Roar supercomputer

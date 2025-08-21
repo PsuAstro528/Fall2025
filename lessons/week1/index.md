@@ -29,11 +29,11 @@ tags = ["weekly",]
 - Online algorithms
 - Writing markdown text
 
-## Readings
-\textinput{reading/week1}
-
 ## Lab
 \textinput{labs/lab1}
+
+## Readings
+\textinput{reading/week1}
 
 ## Additional Resources
 - [Course overview](course_overview)
