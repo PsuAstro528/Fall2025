@@ -5,4 +5,4 @@
 - [Starting & Submitting Assignments](/tips/labs/submistting)
 
 ### Install Julia & Pluto on your local machine (optional)
-- [See instructions from MIT Intro to Computational Thinking course](https://computationalthinking.mit.edu/Spring21/installation/) (For your lab assignments, you'll use Step 2b: Open an existing notebook file, rather than Step 1a Open a notebook from the web.)
+- [See instructions from MIT Intro to Computational Thinking course](https://computationalthinking.mit.edu/Fall24/installation/) (For your lab assignments, you'll use Step 2b: Open an existing notebook file, rather than Step 1a Open a notebook from the web.)
