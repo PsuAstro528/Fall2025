@@ -1,5 +1,5 @@
 ## Additional Resources
-- [Getting Started with Julia on ACI](/tips/roar)
+- [Getting Started with Julia on Lynx](/tips/roar)
 - [Starting & Submitting Assignments](/tips/labs/submitting)
 
 - Julia
