@@ -1,7 +1,7 @@
 - Understand course goals, organization and expectations
 - Recognize opportunities to improve productivity through software development practices
 - Exercise 1: Use software development tools
-   + Access Roar Collab Portal's Pluto Server and/or Jupyter Server with BYOE (bring your own environment)
+   + Access Lynx Portal's Pluto and/or Jupyter Lab Server
    + Optionally setup Julia+Pluto+git on your own computer
    + Use Git & GitHub.com for retrieving and submitting lab assignments
    + Use variables, strings and Markdown in Julia

@@ -1,4 +1,4 @@
-- Lab 7, Exercise 1:  Run batch jobs on ICDS-ACI/Roar:
+- Lab 7, Exercise 1:  Run batch jobs on ICDS Lynx Cluster:
    - Submit a batch job via PBS
    - Read and write data from batch job
    - Run multiple jobs using a job array
@@ -12,6 +12,6 @@
       - Parallelize code using [Dagger.jl](https://juliaparallel.github.io/Dagger.jl/dev/) (alternative)
    + Explain differences in performance when using multiple processor cores on same node versus using multiple processor cores on different nodes
 - Project
-   - Run project code as batch job on the ICDS-ACI cluster
+   - Run project code as batch job on the Lynx cluster
 - Readings / Discussions
    - Evaluating the suitability of a problem for different parallel architectures
