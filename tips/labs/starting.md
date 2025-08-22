@@ -14,11 +14,11 @@ tags = ["tips","labs","git","pluto"]
 
 ## Clone your github repository to begin a new assignment
 - Lookup the url for the repo to be cloned (from Canvas assignment page for that lab or in an announcement).
-    + If you haven't followed the link to create your repo for this week's assignment yet, then do that now.  Following that link should trigger GitHub to create a private git repository. 
-<!-- named labN-GITHUBID (where N is the week number and GITHUBID is the GitHub username that you're logged in as at the time you follow the link). -->
+    + If you haven't followed the link to create your repo for this week's assignment yet, then do that now.  Click "Accept this assignment."  That should trigger GitHub to create a private git repository (typically named labN-GITHUBID) (where N is the lab number and GITHUBID is the GitHub username that you're logged in as at the time you follow the link). 
+    + Note the URL for your private github repository, which will be similar to https://github.com/PsuAstro528/labN-GITHUBID.
     + Navigate to the github repository you'll be using in your browser.
     + Click the green _<> Code_ button.
-    + In the local tab, under "Clone", clikc "SSH" (unless it is already selected).
+    + In the local tab, under "Clone", **click "SSH"** (unless it is already selected).
     + Click the clipboard icon to copy the url onto your clipboard
 - Return to your browser tab with "My Interactive Sessions".
 - Hopefully, there's now a _Click to Connect to Jupyter_ button. Click it.

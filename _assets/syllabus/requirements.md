@@ -13,7 +13,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 ## Computing Requirements
 ### Hardware
-We anticipate that students will have access to a laptop computer or workstation with good internet to work on exercises both during and outside of classes (pairing up is encouraged even if you both have laptops).  As long as students have a good internet connection, then their local computer can be used for accessing cloud resources and need not be high-powered.  If anyone is likely to work form a location with poor internet speed/reliability, then they are encouraged install and run software locally, particularlly for the early part of the class.  While students will still need to submit jobs to the ICDS Roar supercomputer during the second half of the class, much of the software development can be done locally before connecting to Roar to submit jobs and retrieve results.
+We anticipate that students will have access to a laptop computer or workstation with good internet to work on exercises both during and outside of classes (pairing up is encouraged even if you both have laptops).  As long as students have a good internet connection, then their local computer can be used for accessing cloud resources and need not be high-powered.  If anyone is likely to work form a location with poor internet speed/reliability, then they are encouraged install and run software locally, particularlly for the early part of the class.  While students will still need to submit jobs to the ICDS Lynx cluster during the second half of the class, much of the software development can be done locally before connecting to Lynx to submit jobs and retrieve results.
 
 ### Basic Software
 Students will need regular access to the following software:

@@ -26,3 +26,6 @@ Consider [testing your code locally](../testing) on the Lynx cluster (or you loc
 git push
 ```
 
+## Next steps
+- When you're done with your Lynx session, please remember to [end your session](../../roar/exiting/).
+- After about a week, check for any [feedback on your submission](../feedback/).

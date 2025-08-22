@@ -24,12 +24,13 @@ If there are multiple notebooks to test, then you can combine this for multiple 
 cd REPO_DIR
 julia -e 'using Pkg, Pluto; Pluto.activate_notebook_environment("ex1.jl"); Pkg.instantiate();   Pluto.activate_notebook_environment("ex2.jl"); Pkg.instantiate(); '
 ```
-In many cases this step will be unnecessary because the packages will have been installed what you ran the Pluto notebook.  But this can become important in some scenarios such as if you've done some work within a notebook on another computer.
+In many cases this step will be unnecessary because the packages will have been installed what you ran the Pluto notebook.  But this can become important in some scenarios such as if you add or upgrade any packages.  (This can happen implicitly if you do some work within a notebook on another computer that has a different version of Julia or Pluto installed).
 - Run the tests for first notebook
+<!--
 For the first few labs, I suggested using a command like
 ```shell
 cd REPO_DIR
-julia --project=test test/runtest1.jl
+julia --project=test test/test1.jl
 ```
 or run tets for all the notebooks like
 ```shell
@@ -37,6 +38,7 @@ cd REPO_DIR
 julia --project=test test/runtests.jl
 ```
 However, I've since realized that this resulted in some complications in including files.  Therefore, I've changed the way the test scripts are setup.  Starting with lab4 (or if you get the updated version of lab3), you can run the tests like
+-->
 ```shell
 cd REPO_DIR
 julia --project -e 'cd("test"); include("test1.jl")'
@@ -46,13 +48,14 @@ or run tets for all the notebooks like
 cd REPO_DIR
 julia --project -e 'cd("test"); include("runtests.jl")'
 ```
+<!--
 The reason for the change is that julia test systems sets the working directory to be "test" when you run a command like
 ```shell
 cd REPO_DIR
 julia --project -e 'import Pkg; Pkg.test()'
 ```
 which is how the GitHub continuous integration testing is running the tests.  By switching to this pattern, it'll be easier to make sure tests give consistent results when run locally or when run as part of continuous integration testing as a GitHub Action.
-
+-->
 - Inspect the test report results and identify any areas that you want to revisit before submitting.
 - Once  you're happy with the results (or run out of time) [commit your changes](../commit) and [submit](../submitting).
 

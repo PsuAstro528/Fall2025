@@ -23,7 +23,7 @@ If you already have customized your Roar environment for your research, then you
 If something does break, you can run `/storage/group/RISE/classroom/astro_528/scripts/class_setup restore` to undo the setup changes above.  
 -->
 After you exit the terminal, your next Lynx session will automatically use those settings.
-
+Don't exit the terminal now, as you'll continue running commands on the terminal in the next step.  
 
 The next step is to [setup git on Lynx](../git).
 
