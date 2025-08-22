@@ -29,8 +29,7 @@ Login and authenticate (as necessary).
        - To open an existing notebook, or enter the path to the notebook in the text box under "Open a notebook" and click the "Open" button.   (I find using tab completion is very helpful.) 
    + Do your work in the Pluto notebook.
    1. See [Starting & Submitting Assignments](/tips/labs/) for more information on accessing and submitting assignments.
-1. When you're done, save your notebook (Ctrl+S or button in top right of page), close the browser tab(s) with your Pluto notebook(s), and click File.Shutdown from the Jupyter session.
-<!-- 
-1. When you're done, save your notebook (Ctrl+S or button in top right of page), close the browser tab(s) with your Pluto notebook(s), and click File.Logout of the JupyterLab session.
-1. Go back to the "My Interactive Sessions" tab in the Lynx Portal, click "Delete" for this Jupyter session and confirm. 
+<!--
+1. When you're done, save your notebook (Ctrl+S or button in top right of page), close the browser tab(s) with your Pluto notebook(s), and click File.LogoutShutdown from the Jupyter session.
 -->
+1. Go back to the "My Interactive Sessions" tab in the Lynx Portal, click "Delete" for this Jupyter session and confirm. 

@@ -8,5 +8,5 @@ tags = ["tips","labs","icds","aci","roar","lynx"]
 When you're all done with a lab (or just done for now):
 - Save all changes to notebooks (Ctrl+S)
 - Commit any changes to your repository, consider pushing those commits to GitHub.
-- Close browser tabs for your Pluto session and the Jupyter tab.  
+- Close all browser tabs for your Pluto notebooks(s) and/or the Jupyter Lab session.  
 - Go back to the "My Interactive Sessions" tab in the Lynx Portal, click "Delete" for this session and confirm.
