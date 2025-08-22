@@ -9,8 +9,9 @@ tags = ["tips","icds","aci","roar"]
    1. [Run setup script](initial_setup/)
    1. [Configure git](git/)
    1. [Setup ssh keys](sshkeys/)
-- For each session
-   - [Start Pluto on Lynx](pluto/)
-   - [End your Lynx session](exiting/)
+- For each session, you have two options
+   - [Start Jupyter Lab & Pluto on Lynx](jupyterlab/) 
+   - [Start Pluto server on Lynx](pluto/) and access a [Lynx terminal](terminal/) separately
+- [End your Lynx session](exiting/)
 
 See also tips for [Starting & Submitting Labs](../labs/)

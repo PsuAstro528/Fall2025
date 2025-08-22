@@ -9,7 +9,7 @@ tags = ["tips","labs","git"]
 
 ## Save & commit changes before you submit
 Ideally, you'd commit small changes as you go.  At a minimum, make sure that you [commit your changes to your local repository](../commit) each time you are wrapping up a coding session or about to take a break.
-From the terminal tab, make sure you're in your repo's directory.
+From a [terminal on Lynx](../roar/terminal), make sure you're in your repo's directory.
 Then use the following command to commit all changes you've made to files being tracked by git in the current repository.  
 ```shell
 git commit -a -m "Completed"    

@@ -8,8 +8,8 @@ tags = ["tips","labs","git","pluto"]
 \toc
 
 
-## Start a new Lynx Session
-- Request a Jupyter session via the [Lynx portal](https://portal.lynx.hpc.psu.edu/) (see [starting Pluto Server](../../roar/pluto/))
+## Open Lynx Session
+- If you don't already have a Jupyter Lab session open on Lynx, then request a Jupyter Lab session via the [Lynx portal](https://portal.lynx.hpc.psu.edu/) (see [starting Jupyter Lab & Pluto Servers](../../roar/jupyterlab/))
 - You can proceed to the next step, while you're waiting for it to start.
 
 ## Clone your github repository to begin a new assignment
@@ -32,12 +32,12 @@ git clone REPO_URL
 ```
 where `REPO_URL` is what you'll paste from the clipboard
 
-## Instantiate the lab's environemnt
-- Change into the directory that was created for the repository (we'll call it REPO_DIR) and setup all the package dependencies required (as specified by the Project.toml or test/Project.toml file or embedded in Pluto notebooks) by running
+## Build the lab's dependenices
+- Change into the directory that was created for the repository (we'll call it REPO_DIR) and install all the package dependencies required (as specified by the Project.toml or embedded in Pluto notebooks) by running
 
 ```shell
 cd REPO_DIR
-julia --project -e 'using Pkg; Pkg.instantiate(); '
+julia --project -e 'using Pkg; Pkg.build(); '
 ```
 ---
 ## Open Pluto notebook

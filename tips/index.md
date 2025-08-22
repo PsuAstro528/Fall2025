@@ -5,7 +5,7 @@ tags = ["tips"]
 
 # How-To's & Tips
 - [Using Lynx](roar/)
-- [Starting Pluto on Lynx](labs/starting/)
+- [Starting JupyterLab & Pluto on Lynx cluster](labs/starting/)
 - [Creating & Submitting Labs](labs/)
 - [Running Pluto locally](pluto/local/)
 

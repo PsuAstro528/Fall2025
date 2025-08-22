@@ -5,7 +5,9 @@ tags = ["tips","labs"]
 
 # Working with Labs
 - [Getting setup to use Lynx](../roar/) (only one time)
-- [Starting Pluto on Lynx](../roar/pluto/)
+- [Starting Juypter Lab & Pluto Servers on Lynx](../roar/jupyterlab/)
+- [Starting only a Pluto Server on Lynx](../roar/pluto/)
+- [Getting a terminal on Lynx](../roar/terminal/)
 - [Starting a lab](starting/)
 - [Committing changes](commit/)
 - [Testing a lab](testing/)
