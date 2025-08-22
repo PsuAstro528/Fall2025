@@ -15,7 +15,7 @@ Then use the following command to commit all changes you've made to files being 
 git commit -a -m "Completed"    
 ```
 Including "Completed" in the commit message lets the instructor and/or TA know that you're done with the assignment.  
-Consider [testing your code locally](../testing) on Roar Collab (or you local computer) before submitting the final version of your code.
+Consider [testing your code locally](../testing) on the Lynx cluster (or you local computer) before submitting the final version of your code.
 
 ---
 ## Push commits to Github

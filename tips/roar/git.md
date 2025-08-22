@@ -1,5 +1,5 @@
 +++
-title = "Setting up Git on Roar Collabs"
+title = "Setting up Git on Lynx Cluster"
 tags = ["tips","labs","icds","aci","roar","lynx","git"]
 +++
 

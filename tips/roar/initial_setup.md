@@ -3,7 +3,7 @@ title = "Setup Script on Lynx"
 tags = ["tips","getting_started","icds","aci","roar","lynx"]
 +++
 
-### Run Setup Script on Roar Collab
+### Run Setup Script on Lynx Cluster
 
 For students using Lynx for the first time,
 - Open [portal.lynx.hpc.psu.edu](https://portal.lynx.hpc.psu.edu/) in your browser's guest or incognito mode.

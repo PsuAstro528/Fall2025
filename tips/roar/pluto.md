@@ -31,4 +31,4 @@ Login and authenticate (as necessary).
    + Remembering to save your notebook before you quit.
 1. See [Starting & Submitting Assignments](/tips/labs/) for more information on accessing and submitting assignments.
 1. When you're done, close notebook tabs and click logout in upper right (of the Jupyter session).
-1. Go back to the "My Interactive Sessions" tab in the Roar Collab Portal, click "Delete" for this Jupyter session and confirm.
+1. Go back to the "My Interactive Sessions" tab in the Lynx Portal, click "Delete" for this Jupyter session and confirm.

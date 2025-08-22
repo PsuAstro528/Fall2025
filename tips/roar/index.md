@@ -9,7 +9,7 @@ tags = ["tips","icds","aci","roar"]
    1. [Run setup script](initial_setup/)
    1. [Configure git](git/)
    1. [Setup ssh keys](sshkeys/)
-- For each Roar session
+- For each session
    - [Start Pluto on Lynx](pluto/)
    - [End your Lynx session](exiting/)
 
