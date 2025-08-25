@@ -2,6 +2,6 @@
 - Exercise 1:  Getting Setup for GPU Computing & Linear Algebra
 - Exercise 2:  GPU Kernels & Array Programming
 <!--
-- [Exercise 1](https://psuastro528.github.io/Notes-Fall2025/week10/ex2.html):  Getting Setup for GPU Computing & Linear Algebra
+- [Exercise 1](https://psuastro528.github.io/Notes-Fall2025/week10/ex1.html):  Getting Setup for GPU Computing & Linear Algebra
 - [Exercise 2](https://psuastro528.github.io/Notes-Fall2025/week10/ex2.html):  GPU Kernels & Array Programming
 -->
