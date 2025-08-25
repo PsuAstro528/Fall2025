@@ -86,6 +86,12 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>https://psuastro528.github.io/Fall2025/syllabus/print/index.html</loc>
+    <lastmod>2025-08-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>https://psuastro528.github.io/Fall2025/labs/lab2/index.html</loc>
     <lastmod>2025-08-25</lastmod>
     <changefreq>monthly</changefreq>
@@ -152,6 +158,12 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>https://psuastro528.github.io/Fall2025/syllabus/index.html</loc>
+    <lastmod>2025-08-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>https://psuastro528.github.io/Fall2025/labs/lab9/index.html</loc>
     <lastmod>2025-08-25</lastmod>
     <changefreq>monthly</changefreq>
@@ -213,12 +225,6 @@
 </url>
 <url>
     <loc>https://psuastro528.github.io/Fall2025/tips/roar/create_account/index.html</loc>
-    <lastmod>2025-08-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://psuastro528.github.io/Fall2025/syllabus/index.html</loc>
     <lastmod>2025-08-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
