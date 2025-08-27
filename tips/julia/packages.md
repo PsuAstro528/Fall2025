@@ -11,6 +11,7 @@ tags = ["tips","julia"]
 - [JLD2.jl](https://github.com/JuliaIO/JLD2.jl)
 - [FileIO.jl](https://github.com/JuliaIO/FileIO.jl)
 - [FortranFiles.jl](https://github.com/JuliaData/FortranFiles.jl)     
+- [VOTables.jl](https://github.com/JuliaAstro/VOTables.jl)
 - [TOML.jl](https://github.com/JuliaLang/TOML.jl)
 
 ## [Data Wrangling](https://github.com/JuliaData)  
@@ -26,7 +27,11 @@ tags = ["tips","julia"]
 - [Interpolations.jl](https://github.com/JuliaMath/Interpolations.jl) (see also list of related packages near bottom of README)
 - [DataInterpolations.jl](https://github.com/SciML/DataInterpolations.jl)
 - [Surrogates.jl](https://github.com/SciML/Surrogates.jl)
+
+### Time series
+- [DSP.jl](https://github.com/JuliaDSP/DSP.jl)
 - [FFTW.jl](https://github.com/JuliaMath/FFTW.jl)
+- [LombScargle.jl](https://github.com/JuliaAstro/LombScargle.jl)
 
 ### Integration
 - [QuadGK.jl](https://github.com/JuliaMath/QuadGK.jl):  1-d integration
@@ -63,13 +68,17 @@ tags = ["tips","julia"]
 ## Coding practices
 - [Unitful.jl](https://painterqubits.github.io/Unitful.jl/stable/)
 - [UnitfulAstro.jl](https://github.com/JuliaAstro/UnitfulAstro.jl)
+- [ArgParse.jl](https://github.com/carlobaldassi/ArgParse.jl)
+- [PkgTemplates.jl](https://github.com/JuliaCI/PkgTemplates.jl)
 
 ## [Astronomy-specific](https://github.com/JuliaAstro/Planck.jl)
 ### Building blocks
 - [SkyCoords.jl](https://github.com/JuliaAstro/SkyCoords.jl)
 - [Planck.jl](https://github.com/JuliaAstro/Planck.jl)
 - [AstroTime.jl](https://github.com/JuliaAstro/AstroTime.jl)
-- [VOTables.jl](https://github.com/JuliaAstro/VOTables.jl)
+- [Ephemeris.jl](https://www.google.com/search?q=https://github.com/JuliaAstro/Ephemeris.jl)
+- [PlanetOrbits.jl](https://github.com/sefffal/PlanetOrbits.jl)
+- [AstroLib.jl](https://github.com/JuliaAstro/AstroLib.jl)
 
 ### Photometry
 - [PSFModels.jl](https://github.com/JuliaAstro/PSFModels.jl)
@@ -77,6 +86,11 @@ tags = ["tips","julia"]
 - [BoxLeastSquares.jl](https://github.com/JuliaAstro/BoxLeastSquares.jl)
 - [Transits.jl](https://github.com/JuliaAstro/Transits.jl)
 
+## Imaging
+- [AstroImages.jl](https://github.com/JuliaAstro/AstroImages.jl)
+
 ### Modeling
 - [Octofitter.jl](https://github.com/sefffal/Octofitter.jl): Orbit fitting
 - [Korg.jl](https://github.com/ajwheeler/Korg.jl): Stellar synthesis
+- [StellarModels.jl](https://www.google.com/search?q=https://github.com/ajwheeler/StellarModels.jl)
+- [Cosmology.jl](https://github.com/JuliaAstro/Cosmology.jl)
