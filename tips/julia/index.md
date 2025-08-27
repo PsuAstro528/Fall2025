@@ -11,6 +11,8 @@ tags = ["tips","julia"]
 - [Learn Julia in Y Minutes](https://learnxinyminutes.com/docs/julia/)
 - [Julia Cheatsheet](https://cheatsheet.juliadocs.org/)
 
+# [Commonly used packagets](packages/)
+
 # For asking questions/searching past Q&As
 - [Julia Language Discourse](https://discourse.julialang.org/)
 - [The Julia Language Slack](https://julialang.org/slack/)
