@@ -68,15 +68,9 @@ Feel free to create issues with suggestions and/or to submit pull requests with 
 [^1]:  I found that having a Project.toml file in the root directory of the repo creates problems for mybinder.org's ability to autoinstall the proper packages listed from the REQUIRE file.  My work around was to place the Project.toml file in the test subdirectory.
 ---
 ## Web site
-
-- [Hugo](https://gohugo.io/): Fast static-site generator for maintaining website
-- [DocDock theme](https://github.com/vjeantet/hugo-theme-docdock):  Base theme used
-- [Reveal.js](https://github.com/hakimel/reveal.js/):  For building slideshows for class discussion and learning outside of classroom
-- [Pennsylvania Palette](https://sites.psu.edu/liberalartscommunications/visual-identity/colors/): Customizations
-
+- [Franklin.jl docs](https://franklinjl.org/syntax/markdown/)
+- [JuliaTutorialsTemplate](https://github.com/rikhuijzer/JuliaTutorialsTemplate)
 ---
-
-## [Acknowledgments](tools_used/ackl)
 
 ### Improve this page
 You can add your suggestions by submitting a pull request for editing [this file's source](https://github.com/PsuAstro528/Fall2025/blob/master/content/tools_used/tools_used.md).  Thanks!

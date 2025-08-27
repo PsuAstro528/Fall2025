@@ -7,7 +7,8 @@ tags = ["tips"]
 - [Using Lynx](roar/)
 - [Starting JupyterLab & Pluto on Lynx cluster](labs/starting/)
 - [Creating & Submitting Labs](labs/)
-- [Running Pluto locally](pluto/local/)
+- [Pluto](pluto/)
+- [Julia](julia/)
 
 ### Add your tips
 You can add your tips by forking this site's [source repository](https://github.com/PsuAstro528/Fall2025), creating a page in the content/tips directory of your repo, and creating a pull request to merge it in.  Thanks!

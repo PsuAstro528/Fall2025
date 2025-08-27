@@ -17,19 +17,8 @@ tags = ["resources"]
 - [The Why’s and How’s of Licensing Scientific Code](http://www.astrobetter.com/blog/2014/03/10/the-whys-and-hows-of-licensing-scientific-code/)
 - [Docker Orientation](https://docs.docker.com/get-started/)
 
-### Additional Julia Resources
-- [Julia Manual](http://docs.julialang.org/en/v1/)
-- [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) (Lauwens & Downey; online version available for free)
-- [Learn Julia in Y Minutes](https://learnxinyminutes.com/docs/julia/)
-- [Julia Cheatsheet](https://cheatsheet.juliadocs.org/)
-- [Julia Language Discourse](https://discourse.julialang.org/)
-- [The Julia Language Slack](https://julialang.org/slack/)
-
-
-### Pluto
-- [Basic Commands in Pluto](https://github.com/fonsp/Pluto.jl/wiki/%F0%9F%94%8E-Basic-Commands-in-Pluto)
-- More from the [Pluto wiki](https://github.com/fonsp/Pluto.jl/wiki)
-- [PlutoUI.jl docstrings](https://docs.juliahub.com/PlutoUI/)
+### [Julia](../tips/julia/)
+### [Pluto](../tips/pluto/)
 
 ### Website tools
 - [Franklin.jl docs](https://franklinjl.org/syntax/markdown/)
