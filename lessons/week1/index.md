@@ -39,6 +39,7 @@ tags = ["weekly",]
 - [Course overview](course_overview)
 - [Slides](https://psuastro528.github.io/Notes-Fall2025/week1/week1_discuss.html) ([notebook](https://raw.githubusercontent.com/PsuAstro528/Notes-Fall2025/refs/heads/main/week1/week1_discuss.jl))
 
+
 \textinput{getting_started_links}
 
 <!-- [Queue for help with lab during class](https://classroomq.com/students/): Class Code: EI59CV -->
