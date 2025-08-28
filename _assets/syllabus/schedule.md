@@ -1,13 +1,14 @@
-- Week 1: Developer Tools
-- Week 2: Priorities for Scientific Computing
-- Week 3: Scientific Software Design
-- Week 4: Modern Workstation Architectures
-- Week 5: Optimization of Serial Code
-- Week 6: Memory Systems
-- Week 7: Parallel Computing Architectures
-- Weeks 8 & 9: Parallel Programming
-- Week 10: Accelerators & GPUs
-- Week 11: GPU Programming
-- Week 12: Reproducibility
-- Week 13: Cloud Computing
-- Weeks 14-15: Project Presentations
+- [Week 1: Developer Tools](/lessons/week1)
+- [Week 2: Priorities for Scientific Computing](/lessons/week2)
+- [Week 3: Scientific Software Design](/lessons/week3)
+- [Week 4: Modern Workstation Architectures](/lessons/week4)
+- [Week 5: Optimization of Serial Code](/lessons/week5)
+- [Week 6: Memory Systems](/lessons/week6)
+- [Week 7: Parallel Computing Architectures](/lessons/week7)
+- [Weeks 8: Parallel Programming I](/lessons/week8)
+- [Weeks 9: Parallel Programming II](/lessons/week9)
+- [Week 10: Accelerators & GPUs](/lessons/week10)
+- [Week 11: GPU Programming](/lessons/week11)
+- [Week 12: Reproducibility](/lessons/week12)
+- [Week 13: Cloud Computing](/lessons/week13)
+- [Weeks 14-15: Project Presentations](/lessons/weeks-end)
