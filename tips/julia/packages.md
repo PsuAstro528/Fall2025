@@ -22,6 +22,7 @@ tags = ["tips","julia"]
 - [LinearAlgebra in Julia standard libary](https://docs.julialang.org/en/v1/stdlib/LinearAlgebra/)
 - [LinearSolve.jl](https://github.com/SciML/LinearSolve.jl)
 - [SpecialFunctions.jl](https://github.com/JuliaMath/SpecialFunctions.jl)
+- [SIMDMathFunctions](https://github.com/ClimFlows/SIMDMathFunctions.jl)
 - [Polynomials.jl](https://github.com/JuliaMath/Polynomials.jl)
 - [NonlinearSolve.jl](https://github.com/SciML/NonlinearSolve.jl)
 - [Interpolations.jl](https://github.com/JuliaMath/Interpolations.jl) (see also list of related packages near bottom of README)
