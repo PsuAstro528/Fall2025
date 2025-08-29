@@ -19,6 +19,4 @@ tags = ["labs",]
 \textinput{labs/lab1}
 
 
-If you're waiting on getting your account on ICDS-ACI, then I'd suggest that you start with exercise 3, since thinking about your goals does not require any accounts or special software.
-
 \textinput{labs/additional_resources}
