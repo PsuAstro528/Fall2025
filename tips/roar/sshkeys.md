@@ -14,7 +14,7 @@ For students using Lynx for the first time, run the following commands from the 
 ```shell
 ls -al ~/.ssh/
 ```
-If you see a file id_rsa.pub, then you already have an ssh key.  If not, then run 
+If you see a file `id_rsa.pub`, then you already have an ssh key.  If not, then run 
 ```shell
 ssh-keygen
 ```
@@ -25,7 +25,7 @@ you can accept the default path.  Do not specify a password.
 - Login to [GitHub](https://github.com/)
 - Click the circular avatar at the top right, select "Settings", then click "SSH and GPG keys" on the left.  Then click the green "New SSH key" button.  
 - In the Title box enter "ICDS Lynx" (or your preferred identifier).  
-- In the "Key" box paste the contents of the file ~/.ssh/id_rsa.pub from the Lynx cluster.  You can get your ssh public key by running 'cat  ~/.ssh/id_rsa.pub' from the command line while logged into the Lynx cluster (or download it from the ACI portal by going to Files.Home Directory, clicking "Show Dotfiles" (at the top of the page), double clicking .ssh, clicking id_rsa.pub and then download.  Then copy from your favorite text editor.)  
+- In the "Key" box paste the contents of the file `~/.ssh/id_rsa.pub` from the Lynx cluster.  You can get your ssh public key by running `cat  ~/.ssh/id_rsa.pub` from the command line while logged into the Lynx cluster (or download it from the ACI portal by going to Files.Home Directory, clicking "Show Dotfiles" (at the top of the page), double clicking .ssh, clicking `id_rsa.pub` and then download.  Then copy from your favorite text editor.)  
 
 \\
 
