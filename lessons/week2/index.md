@@ -37,8 +37,10 @@ tags = ["weekly",]
 \textinput{reading/week2}
 
 ## Additional Resources
-- [Monday Q&A](https://psuastro528.github.io/Notes-Fall2025/week2/week2_qa.html): Git
-- [Monday Discussion](https://psuastro528.github.io/Notes-Fall2025/week2/week2_discuss.html):  Priorities for Scientific Computing, Writing General Code
+- [Monday Discussion](https://psuastro528.github.io/Notes-Fall2025/week2/week2_discuss.html):  Priorities for Scientific Computing, Conditions, Tests, Writing Generic Code
+
+<!---
+- [Monday Q&A](https://psuastro528.github.io/Notes-Fall2025/week2/week2_qa.html): Git -->
 
 \textinput{getting_started_links}
 

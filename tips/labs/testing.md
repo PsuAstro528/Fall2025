@@ -30,12 +30,12 @@ In many cases this step will be unnecessary because the packages will have been 
 For the first few labs, I suggested using a command like
 ```shell
 cd REPO_DIR
-julia --project=test test/test1.jl
+julia --project test/test1.jl
 ```
 or run tets for all the notebooks like
 ```shell
 cd REPO_DIR
-julia --project=test test/runtests.jl
+julia --project test/runtests.jl
 ```
 However, I've since realized that this resulted in some complications in including files.  Therefore, I've changed the way the test scripts are setup.  Starting with lab4 (or if you get the updated version of lab3), you can run the tests like
 -->
