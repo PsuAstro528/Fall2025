@@ -24,5 +24,5 @@ tags = ["weekly",]
 \textinput{reading/week10}
 
 ## Additional Resources
-- [Week 10, Monday Discussion](https://psuastro528.github.io/Notes-Fall2025/week10/week10.html):  GPU Computing
+- [Week 10 Class Discussion](https://psuastro528.github.io/Notes-Fall2025/week10/week10.html):  GPU Computing
 

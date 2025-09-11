@@ -28,5 +28,5 @@ lastmodifieremail = "ebf11 at psu dot edu"
 \textinput{reading/week13}
 
 ## Additional Resources
-- [Week 13, Monday Discussion and Q&A](https://psuastro528.github.io/Notes-Fall2025/week13/week13.html):  Cloud Computing
+- [Week 13 Class Discussion](https://psuastro528.github.io/Notes-Fall2025/week13/week13.html):  Cloud Computing
 
