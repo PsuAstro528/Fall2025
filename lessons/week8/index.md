@@ -29,4 +29,4 @@ tags = ["weekly",]
 \textinput{reading/week8}
 
 ## Additional Resources
-- [Week 8, Monday](https://psuastro528.github.io/Notes-Fall2025/week8/week8.html):  Parallelization: Q&A and Scaling Laws
+- [Week 8 Class Discussion](https://psuastro528.github.io/Notes-Fall2025/week8/week8.html):  Parallelization and Scaling Laws

@@ -26,4 +26,4 @@ tags = ["weekly",]
 \textinput{reading/week7}
 
 ## Additional Resources
-- [Monday Discusion](https://psuastro528.github.io/Notes-Fall2025/week7/week7.html):  Introduction to Parallelization
+- [Week 7 Class Discusion](https://psuastro528.github.io/Notes-Fall2025/week7/week7.html):  Introduction to Parallelization

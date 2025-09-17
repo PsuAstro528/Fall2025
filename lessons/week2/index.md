@@ -37,7 +37,7 @@ tags = ["weekly",]
 \textinput{reading/week2}
 
 ## Additional Resources
-- [Monday Discussion](https://psuastro528.github.io/Notes-Fall2025/week2/week2_discuss.html):  Priorities for Scientific Computing, Conditions, Tests, Writing Generic Code
+- [Week 2 Class Discussion](https://psuastro528.github.io/Notes-Fall2025/week2/week2_discuss.html):  Priorities for Scientific Computing, Conditions, Tests, Writing Generic Code
 
 <!---
 - [Monday Q&A](https://psuastro528.github.io/Notes-Fall2025/week2/week2_qa.html): Git -->

@@ -14,8 +14,6 @@ lastmodifieremail = "ebf11 at psu dot edu"
 tags = ["weekly",]
 +++
 
-\warn{Project proposal/plan due {{project_proposal_due}}}
-
 ## Goals
 \textinput{goals/week4}
 
@@ -28,4 +26,4 @@ tags = ["weekly",]
 \textinput{labs/lab4}
 
 ## Additional Resources
-- [Monday Q&A](https://psuastro528.github.io/Notes-Fall2025/week4/week4_qa.html): Compilation, Code inspection, Vectorization, Memory Hierarchy
+- [Week 4 Class Discussion](https://psuastro528.github.io/Notes-Fall2025/week4/week4_discuss.html): Compilation, Code inspection, Vectorization, Memory Hierarchy

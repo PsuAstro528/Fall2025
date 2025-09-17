@@ -15,6 +15,8 @@ tags = ["weekly",]
 +++
 
 # Week 3
+\warn{Project proposal/plan due {{project_proposal_due}}}
+
 ## Goals
 \textinput{goals/week3}
 
@@ -30,8 +32,10 @@ tags = ["weekly",]
 \textinput{reading/week3}
 
 ## Additional Resources
-- [Monday Discussion](https://psuastro528.github.io/Notes-Fall2025/week3/week3_discuss.html):  Priorities for Scientific Computing: Correctness, Documentation
+- [Week 3 Class Discussion](https://psuastro528.github.io/Notes-Fall2025/week3/week3_discuss.html):  Priorities for Scientific Computing: Correctness, Documentation
+<!--
 - [Wednesday Q&A](https://psuastro528.github.io/Notes-Fall2025/week3/week3_qa.html): Two-language Problem, Expert vs Non-Expert Interfaces
+-->
 
 - File Formats
    - [FITSIO library written in C](https://heasarc.gsfc.nasa.gov/fitsio/)

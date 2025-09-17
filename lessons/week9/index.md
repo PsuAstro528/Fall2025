@@ -24,5 +24,5 @@ tags = ["weekly",]
 \textinput{reading/week9}
 
 ## Additional Resources
-- [Week 9, Monday Discussion](https://psuastro528.github.io/Notes-Fall2025/week9/week9_discuss.html):  Using the Lynx & Roar Collab Clusters
-- [Week 9, Monday Q&A](https://psuastro528.github.io/Notes-Fall2025/week9/week9_discuss.html):  Distributed memory programming
+- [Week 9 Class Discussion](https://psuastro528.github.io/Notes-Fall2025/week9/week9_discuss.html):  Using the Lynx & Roar Collab Clusters
+<!-- - [Week 9, Monday Q&A](https://psuastro528.github.io/Notes-Fall2025/week9/week9_discuss.html):  Distributed memory programming -->
