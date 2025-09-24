@@ -24,4 +24,4 @@ tags = ["weekly",]
 \textinput{reading/week5}
 
 ## Additional Resources
-- [Week 5 Class Discussion and Q&A](https://psuastro528.github.io/Notes-Fall2025/week5.html): What to Optimize, Programming Interfaces, Abstract Types
+- [Week 5 Class Discussion and Q&A](https://psuastro528.github.io/Notes-Fall2025/week5/week5.html): What to Optimize, Programming Interfaces, Abstract Types
