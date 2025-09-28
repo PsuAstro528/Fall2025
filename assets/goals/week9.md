@@ -1,5 +1,5 @@
 - Lab 7, Exercise 1:  Run batch jobs on ICDS Lynx Cluster:
-   - Submit a batch job via PBS
+   - Submit a batch job via Slurm using multiple processes
    - Read and write data from batch job
    - Run multiple jobs using a job array
 - Lab 7, Exercise 2:  Parallelize code for Distributed memory model, using patterns such as:
@@ -11,6 +11,7 @@
       - [@distributed for loop](https://docs.julialang.org/en/v1/stdlib/Distributed/#Distributed.@distributed) (alternative)
       - Parallelize code using [Dagger.jl](https://juliaparallel.github.io/Dagger.jl/dev/) (alternative)
    + Explain differences in performance when using multiple processor cores on same node versus using multiple processor cores on different nodes
+- Lab 7, Exercise 3:  Run code using a container
 - Project
    - Run project code as batch job on the Lynx cluster
 - Readings / Discussions
