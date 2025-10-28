@@ -25,4 +25,3 @@ tags = ["weekly",]
 
 ## Additional Resources
 - [Week 9 Class Discussion](https://psuastro528.github.io/Notes-Fall2025/week9/week9.html):  Using the Lynx & Roar Collab Clusters
-<!-- - [Week 9, Monday Q&A](https://psuastro528.github.io/Notes-Fall2025/week9/week9_discuss.html):  Distributed memory programming -->
