@@ -1,5 +1,5 @@
 +++
-title = "Week 10: Accelerators & GPUs"
+title = "Week 10: Accelerators & GPU Programming"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
@@ -24,5 +24,5 @@ tags = ["weekly",]
 \textinput{reading/week10}
 
 ## Additional Resources
-- [Week 10 Class Discussion](https://psuastro528.github.io/Notes-Fall2025/week10/week10.html):  GPU Computing
+- [Week 10 Class Discussion](https://psuastro528.github.io/Notes-Fall2025/week10/week10.html):  GPU Programming
 

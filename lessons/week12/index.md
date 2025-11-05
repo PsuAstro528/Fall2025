@@ -1,5 +1,5 @@
 +++
-title = "Week 12: Cloud Computing"
+title = "Week 12: Workflow Management Systems"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
@@ -24,4 +24,4 @@ tags = ["weekly",]
 \textinput{reading/week12}
 
 ## Additional Resources
-- [Week 12: Class Discussion](https://psuastro528.github.io/Notes-Fall2025/week12/week12.html):  Reproducibility:  Packages, Environments & more
+- [Week 12: Class Discussion](https://psuastro528.github.io/Notes-Fall2025/week12/week12.html): Build Systems, Parallel Random Number Generators, Autodiff on GPUs,  Priorities for Scientific Computing

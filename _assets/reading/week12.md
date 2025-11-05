@@ -1,2 +1,2 @@
-   + _Writing Scientific Software_ Ch 17.1: Make (4pg; if using C/C++ or Fortran for project) -or-
-   + [Julia Package Development](https://pkgdocs.julialang.org/v1/managing-packages/): Sec. 1-3 (stop after Updating Packages; if using Julia for project)
+   + [Best Practices for Scientific Computing](http://arxiv.org/pdf/1210.0530v4.pdf): (Sec 2; yes, let's all read it again!)
+   + [Best Practices for Scientific Computing](http://arxiv.org/pdf/1210.0530v4.pdf): (Reference list on last page, just in case you didn't notice it before!)

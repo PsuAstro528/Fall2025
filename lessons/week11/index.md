@@ -1,5 +1,5 @@
 +++
-title = "Week 11: GPU Programming"
+title = "Week 11: Reproducibility"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
@@ -29,5 +29,5 @@ tags = ["weekly",]
 \textinput{reading/week11}
 
 ## Additional Resources
-- [Week 11 Class Discussion](https://psuastro528.github.io/Notes-Fall2025/week11/week11.html):  Priorities, Build Systems, Parallel Random Number Generators, Q&A, Autodiff on GPUs
+- [Week 11 Class Discussion](https://psuastro528.github.io/Notes-Fall2025/week11/week11.html):  Reproducibility:  Packages, Environments & more
 

@@ -22,7 +22,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 - **[Second parallel implementation of class project](project/#submit_second_parallel_version_of_code_due_project_parallel2_due)** (typically using distributed-memory or GPU)
 
 ## Lab
-\textinput{labs/lab7}
+\textinput{labs/lab9}
 
 ## Readings
 \textinput{reading/week13}
