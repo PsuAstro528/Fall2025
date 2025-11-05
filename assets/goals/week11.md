@@ -1,3 +1,7 @@
 - Project
    - Parallelize real world code
    - Achieve significant performance benefit via parallelization
+- Readings / Discussions
+   - Identify common challenges for providing reproducible software & workflow
+   - Describe how Julia's package manager facilitate reproducible research
+   - Describe other common tools & strategies for facilitating reproducible research
